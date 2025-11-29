@@ -1,0 +1,11 @@
+C:\Users\shael\NullabilityContracts\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\shael\NullabilityContracts\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\shael\NullabilityContracts\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\shael\NullabilityContracts\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shael\NullabilityContracts\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\shael\NullabilityContracts\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\shael\NullabilityContracts\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\shael\NullabilityContracts\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\shael\NullabilityContracts\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\shael\NullabilityContracts\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\shael\NullabilityContracts\Domain\obj\Debug\net9.0\ref\Domain.dll
